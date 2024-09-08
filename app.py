@@ -13,7 +13,7 @@ from langchain.chains import RetrievalQA
 # Constantes
 MAX_TOKENS = 4000
 TEMPERATURA = 0.2
-OPENAI_API_KEY = st.secrets["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"]
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 MODELO_FINETUNED = "ft:gpt-4o-2024-08-06:personal::A3uFSo9x"
 
 @st.cache_resource
