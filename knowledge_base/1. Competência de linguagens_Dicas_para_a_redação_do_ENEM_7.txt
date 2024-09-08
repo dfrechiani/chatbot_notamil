@@ -1,0 +1,32 @@
+{
+    "competencia": "1. Competência de linguagens",
+    "titulo": "Dicas para a redação do ENEM",
+    "conteudo": {
+        "acoes": {
+            "definicao": "A ação deve iniciar com um verbo no infinitivo para propor uma solução.",
+            "exemplos": [
+                "deve realizar",
+                "pode implementar",
+                "precisa desenvolver"
+            ],
+            "dicas": [
+                "Comece a ação com um verbo no infinitivo como dever, poder ou precisar.",
+                "Evite ações muito específicas, pois dificultam a proposta do meio de ação.",
+                "Use termos marcadores da ação para deixar claro que você escreveu a ação interventiva."
+            ]
+        },
+        "meioDeAcao": {
+            "definicao": "O meio de ação explica como a ação será realizada.",
+            "exemplos": [
+                "por meio de campanhas nas mídias",
+                "através de canais de grande alcance",
+                "com o objetivo de atingir o público-alvo"
+            ],
+            "dicas": [
+                "Detalhe os meios para viabilizar a ação proposta.",
+                "Use conectivos como 'por meio de', 'através de', 'com o objetivo de'.",
+                "Evite meios muito específicos."
+            ]
+        }
+    }
+}

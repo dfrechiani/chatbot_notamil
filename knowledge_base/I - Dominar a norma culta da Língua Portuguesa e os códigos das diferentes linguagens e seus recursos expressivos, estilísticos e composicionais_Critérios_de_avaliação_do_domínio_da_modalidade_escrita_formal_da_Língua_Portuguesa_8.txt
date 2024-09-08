@@ -1,0 +1,29 @@
+{
+    "competencia": "I - Dominar a norma culta da Língua Portuguesa e os códigos das diferentes linguagens e seus recursos expressivos, estilísticos e composicionais",
+    "titulo": "Critérios de avaliação do domínio da modalidade escrita formal da Língua Portuguesa",
+    "conteudo": {
+        "introducao": "Este conteúdo apresenta os critérios utilizados para avaliar o domínio do candidato da modalidade escrita formal da Língua Portuguesa na redação do ENEM.",
+        "criterios": [
+            {
+                "pontuacao": 0,
+                "descricao": "Demonstra desconhecimento da modalidade escrita formal da Língua Portuguesa"
+            },
+            {
+                "pontuacao": 40,
+                "descricao": "Demonstra domínio precário da modalidade escrita formal da Língua Portuguesa, de forma sistemática, com diversificados e frequentes desvios gramaticais, de escolha de registro e de convenções da escrita"
+            },
+            {
+                "pontuacao": 80,
+                "descricao": "Demonstra domínio insuficiente da modalidade escrita formal da Língua Portuguesa, com muitos desvios gramaticais, de escolha de registro e de convenções da escrita"
+            },
+            {
+                "pontuacao": 120,
+                "descricao": "Demonstra domínio mediano da modalidade escrita formal da Língua Portuguesa e de escolha de registro, com alguns desvios gramaticais e de convenções da escrita"
+            },
+            {
+                "pontuacao": 160,
+                "descricao": "Demonstra bom domínio da modalidade escrita formal da Língua Portuguesa e de escolha de registro, com poucos desvios gramaticais e de convenções da escrita"
+            }
+        ]
+    }
+}

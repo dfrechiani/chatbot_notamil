@@ -1,0 +1,26 @@
+{
+    "competencia": "I - Dominar a norma culta da Língua Portuguesa e os códigos das diferentes linguagens para formular textos escritos de forma consistente e coerente.",
+    "titulo": "Estruturação de um texto dissertativo-argumentativo para a redação do ENEM",
+    "conteudo": {
+        "introducao": {
+            "definicao": "O texto dissertativo-argumentativo é composto por quatro parágrafos: introdução, desenvolvimento (dois parágrafos) e conclusão.",
+            "objetivo": "Apresentar o tema, expor a problemática e anunciar a tese que será defendida."
+        },
+        "desenvolvimento": {
+            "definicao": "Parte principal do texto onde o participante deve desenvolver os argumentos que sustentam a tese apresentada na introdução.",
+            "criterios": [
+                "Dois parágrafos contendo argumentos e exemplos que apoiem a tese.",
+                "Uso de conectivos adequados para articular ideias e construir coesão.",
+                "Emprego da norma culta da língua portuguesa."
+            ]
+        },
+        "conclusao": {
+            "definicao": "Último parágrafo onde se retoma a tese inicial reafirmando-a como resposta para a problemática exposta na introdução.",
+            "dicas": [
+                "Não apresentar fatos novos.",
+                "Resumir os principais pontos abordados no desenvolvimento.",
+                "Evitar frases feitas do tipo 'Diante do exposto' ou 'Pelo que foi visto'."
+            ]
+        }
+    }
+}

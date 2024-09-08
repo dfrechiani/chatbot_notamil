@@ -1,0 +1,18 @@
+{
+    "competencia": "1 - Competência de área 1 - Dominar a norma culta da Língua Portuguesa e os gêneros textuais",
+    "titulo": "Análise de texto dissertativo-argumentativo do ENEM",
+    "conteudo": {
+        "introducao": "O texto analisa um tema proposto para redação do ENEM sobre a valorização de comunidades e povos tradicionais no Brasil.",
+        "desenvolvimento": {
+            "paragrafo1": "Aborda o tema, afirmando que não há cumprimento efetivo do Artigo 1o da CF/88 para todos os cidadãos.",
+            "paragrafo2": "Trata da discriminação e estigma contra esses povos.",
+            "paragrafo3": "Destaca a perspectiva mercadológica do mercado corporativo brasileiro e a exploração de territórios ambientais.",
+            "paragrafo4": "Conclusão decorrente dos parágrafos anteriores."
+        },
+        "analise": {
+            "tema": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+            "repertorio": "Utiliza ideias de Erving Goffman e Karl Marx para fundamentar os argumentos.",
+            "avaliacao": "O texto apresenta um repertório sociológico e filosófico produtivo para discutir o tema proposto."
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "competencia": "4 - Competência de linguagens",
+    "titulo": "Evitando repetição excessiva de palavras",
+    "conteudo": {
+        "definicao": "Repetição desnecessária do mesmo termo, o que pode tornar o texto pobre e monótono.",
+        "criterios": "A repetição excessiva de palavras é penalizada na competência de linguagens por demonstrar vocabulário limitado.",
+        "exemplos": [
+            "Em vez de repetir 'torcida', use 'adeptos', 'público', 'fãs' ou 'grupos organizados'.",
+            "Em vez de 'violência', use 'agressividade', 'confrontos', 'hostilidades', etc."
+        ],
+        "dicas": [
+            "Varie o vocabulário usando sinônimos.",
+            "Evite repetir o mesmo termo mais de 2-3 vezes por parágrafo.",
+            "Revise o texto substituindo termos repetidos por sinônimos."
+        ]
+    }
+}

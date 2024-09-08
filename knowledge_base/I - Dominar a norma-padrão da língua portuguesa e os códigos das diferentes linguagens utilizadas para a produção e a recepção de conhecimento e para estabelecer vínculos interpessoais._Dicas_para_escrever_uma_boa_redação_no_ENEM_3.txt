@@ -1,0 +1,34 @@
+{
+    "competencia": "I - Dominar a norma-padrão da língua portuguesa e os códigos das diferentes linguagens utilizadas para a produção e a recepção de conhecimento e para estabelecer vínculos interpessoais.",
+    "titulo": "Dicas para escrever uma boa redação no ENEM",
+    "conteudo": {
+        "introducao": "Este conteúdo traz dicas para ajudar na escrita da redação do ENEM.",
+        "teses": {
+            "definicao": "A tese deve ser objetiva e clara, evitando generalizações.",
+            "exemplos": {
+                "ruim": "O poder público brasileiro, responsável pela formulação das leis, é predominantemente corrupto e assim vem sendo indiferente à formação educacional dos surdos",
+                "bom": "O poder público deve garantir o direito à educação adequada para pessoas surdas, o que não tem acontecido de forma efetiva."
+            }
+        },
+        "direitos": {
+            "introducao": "Identificar os direitos relacionados ao tema ajuda na argumentação.",
+            "categorias": [
+                "Saúde",
+                "Educação",
+                "Saneamento",
+                "Moradia",
+                "Lazer"
+            ],
+            "exemplos": [
+                "Acessibilidade",
+                "Alimentação",
+                "Assistência aos desamparados"
+            ]
+        },
+        "dicas": [
+            "Use conectivos adequados para ligar frases e parágrafos",
+            "Evite repetição de palavras e estruturas",
+            "Revise a ortografia e pontuação"
+        ]
+    }
+}

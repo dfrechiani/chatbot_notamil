@@ -1,0 +1,18 @@
+{
+    "competencia": "V - Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos.",
+    "titulo": "Dicas para elaboração da proposta de intervenção na redação do ENEM",
+    "conteudo": {
+        "definicao": {
+            "texto": "A proposta de intervenção é a parte final do texto da redação do ENEM, onde o participante deve apresentar uma ou mais ações práticas para lidar com o problema discutido ao longo do texto."
+        },
+        "criterios": {
+            "texto": "A proposta de intervenção deve: estar relacionada ao tema e à discussão desenvolvida no texto; apresentar uma ação prática e viável; respeitar os direitos humanos; mostrar criatividade e conhecimento de mundo do participante."
+        },
+        "exemplos": {
+            "texto": "Exemplos de propostas de intervenção: criação de leis e políticas públicas; projetos e ações governamentais ou da sociedade civil; soluções tecnológicas; mudanças de atitudes e comportamentos; educação e conscientização."
+        },
+        "dicas": {
+            "texto": "- Fundamente sua proposta em argumentos desenvolvidos no texto; - Dê preferência a propostas factíveis e que respeitem os DH; - Mostre criatividade e conhecimento de mundo ao propor soluções; - Cuidado para não extrapolar o tema ou fugir do foco."
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "competencia": "I - Dominar a norma-padrão da língua portuguesa e os gêneros textuais",
+    "titulo": "Estrutura e elementos da redação do ENEM",
+    "conteudo": {
+        "introducao": {
+            "definicao": "A introdução da redação do ENEM deve apresentar o tema de forma clara e objetiva, demonstrando entendimento sobre o assunto.",
+            "elementos": [
+                "Contextualização do tema",
+                "Definição dos termos-chave",
+                "Delimitação do escopo de abordagem",
+                "Apresentação da tese/ponto de vista"
+            ]
+        },
+        "desenvolvimento": {
+            "definicao": "O desenvolvimento é a parte principal da redação, onde o aluno deve defender seu ponto de vista, utilizando argumentos e articulando ideias de forma coerente e coesa.",
+            "dicas": [
+                "Utilize dados, fatos e exemplos para apoiar seus argumentos",
+                "Estabeleça relações lógicas entre suas ideias",
+                "Organize o texto em parágrafos bem desenvolvidos"
+            ]
+        },
+        "conclusao": {
+            "definicao": "A conclusão da redação deve confirmar, de forma bem articulada, a tese/ponto de vista defendido pelo aluno ao longo do texto.",
+            "elementos": [
+                "Retomada da tese apresentada na introdução",
+                "Síntese dos principais argumentos expostos no desenvolvimento",
+                "Considerações finais a respeito do tema proposto"
+            ]
+        }
+    }
+}

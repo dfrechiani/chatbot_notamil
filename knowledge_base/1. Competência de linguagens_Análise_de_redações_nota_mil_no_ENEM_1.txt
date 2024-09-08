@@ -1,0 +1,28 @@
+{
+    "competencia": "1. Competência de linguagens",
+    "titulo": "Análise de redações nota mil no ENEM",
+    "conteudo": {
+        "introducao": "Este conteúdo analisa redações que receberam nota máxima no ENEM, buscando identificar padrões e critérios valorizados pelos avaliadores.",
+        "definicao": {
+            "redação nota mil": "Redação que atendeu plenamente aos critérios de correção do ENEM e recebeu nota máxima (1000 pontos).",
+            "padroes": "Características, estruturas e abordagens recorrentes nas redações nota mil que são valorizadas pelos avaliadores."
+        },
+        "criterios": [
+            "Domínio da modalidade escrita formal da língua portuguesa",
+            "Compreensão da proposta de redação e aplicação de conceitos das várias áreas de conhecimento para desenvolver o tema, dentro dos limites estruturais do texto dissertativo-argumentativo",
+            "Seleção, relação, organização e interpretação de informações, fatos e opiniões para defender um ponto de vista",
+            "Demonstração de conhecimento dos mecanismos linguísticos para estabelecer a progressão textual"
+        ],
+        "exemplos": [
+            {
+                "titulo": "Exemplo de redação nota mil - ENEM 2023",
+                "conteudo": "Transcrição completa da Redação 1 apresentada na descrição inicial"
+            }
+        ],
+        "dicas": [
+            "Atender rigorosamente ao tema proposto",
+            "Estruturar o texto em um parágrafo de introdução, dois ou mais parágrafos de desenvolvimento e um parágrafo conclusivo",
+            "Defender seu ponto de vista com argumentos consistentes e articulados entre si"
+        ]
+    }
+}

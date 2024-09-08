@@ -1,0 +1,20 @@
+{
+    "competencia": "1. Competência de área 1 - Dominar a norma-padrão da Língua Portuguesa e os gêneros textuais",
+    "titulo": "A importância de preservar os saberes dos povos tradicionais",
+    "conteudo": {
+        "introducao": {
+            "texto": "O texto apresenta argumentos sobre a importância de preservar os saberes e conhecimentos dos povos tradicionais brasileiros."
+        },
+        "argumentos principais": {
+            "dano ambiental": "Causar danos à natureza também causa danos aos povos tradicionais que dela dependem.",
+            "apagamento de saberes": "O apagamento dos saberes ancestrais leva à desvalorização dos povos tradicionais.",
+            "diversidade de saberes": "Há uma grande diversidade de saberes desenvolvidos pelos diversos povos tradicionais do Brasil."
+        },
+        "problema identificado": {
+            "texto": "Esses saberes são pouco difundidos e conhecidos pela maioria dos brasileiros."
+        },
+        "consequencia": {
+            "texto": "Assim, esses saberes correm o risco de se perderem."
+        }
+    }
+}

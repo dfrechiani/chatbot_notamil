@@ -1,0 +1,69 @@
+{
+    "competencia": "I",
+    "titulo": "Pronomes",
+    "conteudo": {
+        "secoes": [
+            {
+                "nome": "Possessivos",
+                "subsecoes": [
+                    {
+                        "nome": "Reforço e valores",
+                        "descricao": "Reforço dos possessivos com uso de artigos. Valores afetivos de uso."
+                    },
+                    {
+                        "nome": "Substantivação",
+                        "descricao": "Substantivação dos pronomes possessivos em construções."
+                    }
+                ]
+            },
+            {
+                "nome": "Demonstrativos",
+                "subsecoes": [
+                    {
+                        "nome": "Formas e valores",
+                        "descricao": "Formas dos pronomes demonstrativos e seus valores gerais. Diversidade de emprego e usos particulares."
+                    },
+                    {
+                        "nome": "Posição e reforço",
+                        "descricao": "Posição do pronome demonstrativo adjetivo. Reforço com valor afetivo."
+                    }
+                ]
+            },
+            {
+                "nome": "Relativos",
+                "subsecoes": [
+                    {
+                        "nome": "Formas e funções",
+                        "descricao": "Formas dos pronomes relativos e suas funções sintáticas. Relativos sem antecedente."
+                    },
+                    {
+                        "nome": "Valores e empregos",
+                        "descricao": "Valores e empregos específicos dos pronomes relativos: que, qual, quem, cujo, quanto."
+                    }
+                ]
+            },
+            {
+                "nome": "Interrogativos",
+                "subsecoes": [
+                    {
+                        "nome": "Flexão e valores",
+                        "descricao": "Flexão dos pronomes interrogativos. Valores e empregos de: que, quem, qual, quanto."
+                    },
+                    {
+                        "nome": "Emprego exclamativo",
+                        "descricao": "Uso exclamativo dos pronomes interrogativos."
+                    }
+                ]
+            },
+            {
+                "nome": "Indefinidos",
+                "subsecoes": [
+                    {
+                        "nome": "Formas",
+                        "descricao": "Formas dos pronomes indefinidos."
+                    }
+                ]
+            }
+        ]
+    }
+}

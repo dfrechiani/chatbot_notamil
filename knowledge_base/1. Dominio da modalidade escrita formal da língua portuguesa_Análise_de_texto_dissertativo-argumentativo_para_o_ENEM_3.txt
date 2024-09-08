@@ -1,0 +1,21 @@
+{
+    "competencia": "1. Dominio da modalidade escrita formal da língua portuguesa",
+    "titulo": "Análise de texto dissertativo-argumentativo para o ENEM",
+    "conteudo": {
+        "introducao": {
+            "contexto": "Texto aborda a desvalorização do trabalho de cuidado realizado majoritariamente por mulheres.",
+            "teses": [
+                "Escolas não promovem conscientização sobre importância desse trabalho.",
+                "Isso leva à desvalorização e discriminação dessas profissionais.",
+                "Teoria da Coercitividade explica adoção de pensamento hegemônico pela população."
+            ]
+        },
+        "desenvolvimento": {
+            "proposta": "Dar visibilidade e valorizar trabalho de cuidado feminino com políticas de remuneração adequada.",
+            "justificativa": "Combater desvalorização e discriminação, reconhecendo importância desse trabalho."
+        },
+        "conclusao": {
+            "sintese": "Necessário investir em políticas para valorizar esse trabalho essencial realizado majoritariamente por mulheres no Brasil."
+        }
+    }
+}

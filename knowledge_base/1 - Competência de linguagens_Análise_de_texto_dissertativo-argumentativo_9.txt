@@ -1,0 +1,18 @@
+{
+    "competencia": "1 - Competência de linguagens",
+    "titulo": "Análise de texto dissertativo-argumentativo",
+    "conteudo": {
+        "Definicao": "O texto apresenta uma dissertação a respeito da importância dos saberes e tradições dos povos originários do Brasil e os desafios para sua valorização na contemporaneidade.",
+        "Criterios de avaliacao": [
+            "Capacidade de compreender o tema central e os argumentos apresentados no texto",
+            "Habilidade de relacionar as ideias expostas a aspectos históricos e culturais mais amplos",
+            "Visão crítica sobre a necessidade de valorizar os povos tradicionais e preservar seus conhecimentos"
+        ],
+        "Exemplos": [
+            "Menção ao papel das missões jesuíticas na supressão de tradições nativas no período colonial",
+            "Destaque para o IPHAN no reconhecimento das heranças tradicionais desses grupos",
+            "Defesa de medidas estatais para melhorar o cenário atual dos povos tradicionais"
+        ],
+        "Dicas": "Atentar para o emprego adequado da modalidade escrita formal da língua portuguesa e a construção coesa e coerente de argumentos."
+    }
+}

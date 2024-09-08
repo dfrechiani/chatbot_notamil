@@ -1,0 +1,23 @@
+{
+    "competencia": "1. Competência de área 1 - Dominar a norma-padrão da Língua Portuguesa e fazer uso das linguagens matemática, artística e científica.",
+    "titulo": "Texto dissertativo-argumentativo sobre valorização de comunidades e povos tradicionais",
+    "conteudo": {
+        "Introducao": {
+            "Contextualização": "O texto aborda a problemática da agressão ao meio ambiente e ao apagamento de saberes ancestrais como desafios para a valorização de comunidades e povos tradicionais no Brasil.",
+            "Tese": "É necessário combater esses desafios para promover o respeito e a preservação desses grupos e seus modos de vida."
+        },
+        "Desenvolvimento": {
+            "Argumento 1": {
+                "Ideia principal": "A agressão ao meio ambiente fere as comunidades tradicionais, que possuem uma relação de respeito e dependência com a natureza.",
+                "Explicação": "Ao longo de séculos essas comunidades desenvolveram culturas sustentáveis e uma visão afetiva da natureza, que se tornou parte de sua identidade."
+            },
+            "Argumento 2": {
+                "Ideia principal": "As ações predatórias contra o meio ambiente visam o ganho financeiro e põem em risco a sobrevivência dos povos tradicionais.",
+                "Explicação": "Desmatamento, garimpo, poluição etc. priorizam recursos naturais que beneficiam seus agressores, ameaçando o patrimônio e modo de vida desses povos."
+            }
+        },
+        "Conclusão": {
+            "Síntese": "Portanto, é fundamental proteger o meio ambiente e as culturas tradicionais, que possuem uma relação de interdependência e respeito pela natureza."
+        }
+    }
+}

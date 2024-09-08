@@ -1,0 +1,17 @@
+{
+    "competencia": "1. Competência de área 1 - Dominar a norma-padrão da língua portuguesa e os gêneros textuais",
+    "titulo": "Diretrizes e princípios norteadores para avaliação das redações do ENEM",
+    "conteudo": {
+        "introducao": "Este conteúdo apresenta diretrizes e princípios que norteiam a avaliação das redações do ENEM.",
+        "principios_inaceitaveis": "Defesa de tortura, mutilação, execução sumária e qualquer forma de “justiça com as próprias mãos”; incitação a qualquer tipo de violência motivada por questões de raça, etnia, gênero, credo, opinião política, condição física, origem geográfica ou socioeconômica; explicitação de qualquer forma de discurso de ódio (voltado contra grupos sociais específicos).",
+        "principios_norteadores": [
+            "Dignidade humana",
+            "Igualdade de direitos",
+            "Reconhecimento e valorização das diferenças e diversidades",
+            "Laicidade do Estado",
+            "Democracia na educação",
+            "Transversalidade, vivência e globalidade",
+            "Sustentabilidade socioambiental"
+        ]
+    }
+}

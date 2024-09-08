@@ -1,0 +1,30 @@
+{
+    "competencia": "I - Demonstrar domínio da modalidade escrita formal da língua portuguesa",
+    "titulo": "Uso adequado da linguagem em redações do ENEM",
+    "conteudo": {
+        "introducao": {
+            "definicao": "O uso adequado da linguagem em redações do ENEM envolve:",
+            "criterios": [
+                "Emprego da norma culta da língua portuguesa",
+                "Seleção lexical adequada ao gênero textual",
+                "Articulação adequada entre as partes do texto",
+                "Uso adequado de recursos coesivos"
+            ]
+        },
+        "desenvolvimento": {
+            "dicas": [
+                "Evite o uso de gíria, regionalismos ou neologismos",
+                "Cuide da concordância verbal e nominal",
+                "Utilize vocabulário formal e técnico quando necessário",
+                "Empregue adequadamente pronomes, conjunções e preposições para articular ideias e parágrafos"
+            ],
+            "exemplos": [
+                "Em vez de: 'Na moralzinha, o preconceito com os índios é muito forte.'",
+                "Utilize: 'Ademais, vale ressaltar o preconceito cultivado no ideário popular como empecilho à importância atribuída aos povos nativos...'"
+            ]
+        },
+        "conclusao": {
+            "resumo": "O domínio da norma culta da língua portuguesa é essencial para uma boa avaliação na redação do ENEM."
+        }
+    }
+}

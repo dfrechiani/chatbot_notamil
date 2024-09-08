@@ -1,0 +1,30 @@
+{
+    "competencia": "1 - Competência de linguagens",
+    "titulo": "Como usar a expressão-chave na tese da redação do ENEM",
+    "conteudo": {
+        "definicao": {
+            "expressaoChave": "A palavra ou expressão mais importante do tema da redação",
+            "tese": "A crítica principal apresentada pelo candidato sobre o tema"
+        },
+        "criteriosAvaliacao": {
+            "expressaoChaveTese": "A expressão-chave deve fazer parte da tese para garantir a coerência com o tema proposto"
+        },
+        "exemplos": {
+            "tema2019": {
+                "tema": "Democratização do acesso ao cinema no Brasil",
+                "expressaoChave": "Democratização do acesso ao cinema",
+                "teseExemplo": "A democratização do acesso ao cinema no Brasil ainda é limitada devido a fatores econômicos e culturais"
+            },
+            "tema2018": {
+                "tema": "A manipulação do comportamento do usuário pelo controle de dados na internet",
+                "expressaoChave": "Controle de dados",
+                "teseExemplo": "O controle não ético de dados pessoais na internet representa uma ameaça à liberdade dos usuários"
+            }
+        },
+        "dicas": [
+            "Identifique corretamente a expressão-chave no tema proposto",
+            "Inclua a expressão-chave na tese de forma coerente e coesa",
+            "Verifique se a tese apresenta uma crítica ou problematização válida sobre o tema"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "competencia": "I - Demonstrar domínio da modalidade escrita formal da Língua Portuguesa",
+    "titulo": "Estrutura sintática e desvios gramaticais",
+    "conteudo": {
+        "definicao": {
+            "estruturaSintatica": "Organização dos elementos oracionais que garantem a fluidez da leitura e a apresentação clara das ideias em períodos bem estruturados.",
+            "desvios": "Não observância às regras gramaticais, como concordância verbal e nominal, regência verbal e nominal, emprego de pronomes, entre outros."
+        },
+        "criteriosAvaliacao": {
+            "sintaxe": "Será avaliada a construção sintática das frases e a organização em períodos completos e bem estruturados.",
+            "desvios": "Serão identificados os desvios às regras gramaticais como possíveis problemas na redação."
+        },
+        "exemplos": {
+            "bom": "O candidato deverá demonstrar domínio da modalidade escrita formal, construindo um texto dissertativo-argumentativo com períodos completos e bem estruturados, sem desvios às regras gramaticais.",
+            "ruim": "O candidato deverá demonstrar domínio da modalidade escrita formal construindo um texto dissertativo-argumentativo com problemas de construção sintática e com desvios às regras gramaticais como concordância verbal e nominal, regência verbal e nominal, emprego de pronomes entre outros."
+        },
+        "dicas": {
+            "sintaxe": "Organize suas ideias em períodos completos, coerentes e bem estruturados.",
+            "gramatica": "Revise com atenção a concordância nominal e verbal, a regência nominal e verbal e o emprego de pronomes antes de passar a versão final."
+        }
+    }
+}

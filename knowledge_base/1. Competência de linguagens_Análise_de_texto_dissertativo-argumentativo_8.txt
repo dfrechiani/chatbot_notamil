@@ -1,0 +1,21 @@
+{
+    "competencia": "1. Competência de linguagens",
+    "titulo": "Análise de texto dissertativo-argumentativo",
+    "conteudo": {
+        "Definicao": "O texto apresenta uma dissertação a respeito da atuação do Estado frente à efetivação do direito à educação no Brasil.",
+        "Criterios de avaliacao": [
+            "Coerência entre as partes do texto",
+            "Uso adequado de conectivos e operadores argumentativos",
+            "Proposta de intervenção ou ação para o problema apresentado"
+        ],
+        "Exemplos": [
+            "O texto aponta a importância de o Estado promover campanhas educacionais sobre comunidades tradicionais.",
+            "O autor defende a necessidade de o poder público desenvolver ações para reverter o desconhecimento e desvalorização dessas populações."
+        ],
+        "Dicas": [
+            "Atente-se para a progressão e encadeamento lógico das ideias no texto.",
+            "Verifique se há contradição ou falta de fundamento nas argumentações.",
+            "A proposta de intervenção deve estar alinhada à discussão desenvolvida."
+        ]
+    }
+}

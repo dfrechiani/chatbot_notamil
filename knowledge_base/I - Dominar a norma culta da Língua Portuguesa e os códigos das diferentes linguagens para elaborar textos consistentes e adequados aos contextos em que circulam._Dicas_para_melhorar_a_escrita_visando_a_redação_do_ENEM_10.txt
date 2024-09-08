@@ -1,0 +1,12 @@
+{
+    "competencia": "I - Dominar a norma culta da Língua Portuguesa e os códigos das diferentes linguagens para elaborar textos consistentes e adequados aos contextos em que circulam.",
+    "titulo": "Dicas para melhorar a escrita visando a redação do ENEM",
+    "conteudo": {
+        "Introducao": "Para escrever uma boa redação do ENEM é importante:",
+        "Fontes de leitura": "Ler fontes variadas e de qualidade, desde obras literárias até artigos científicos, em diversos formatos: livros, revistas, sites, blogs, etc.",
+        "Temas atuais": "Pesquisar sobre assuntos atuais, trabalhados em sala ou nos noticiários, verificando a veracidade das informações",
+        "Visao ampla": "Ouvir diferentes visões sobre um tema e ler pontos de vista favoráveis e contrários para ampliar o horizonte argumentativo",
+        "Descobertas": "A leitura pode ajudar não só a escrever melhor, mas também a descobrir novos interesses: um autor, uma ideia para um projeto, uma futura carreira, etc.",
+        "Consideracoes finais": "A leitura amplia o entendimento da língua, do mundo e das relações humanas, trazendo benefícios para a escrita da redação."
+    }
+}

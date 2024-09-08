@@ -1,0 +1,21 @@
+{
+    "competencia": "I - Dominar a norma-padrão da língua portuguesa e os códigos das diferentes linguagens para elaborar textos escritos de diversos gêneros e estilos.",
+    "titulo": "Cartilha sobre a redação do ENEM 2023",
+    "conteudo": {
+        "introducao": "Esta cartilha traz orientações sobre a prova de redação do Exame Nacional do Ensino Médio (Enem) 2023.",
+        "avaliacao": "A redação do Enem é avaliada de acordo com 5 competências, cada uma valendo até 200 pontos:",
+        "competencias": [
+            "Demonstrar domínio da modalidade escrita formal da língua portuguesa",
+            "Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema, dentro dos limites estruturais do texto dissertativo-argumentativo",
+            "Selecionar, relacionar, organizar e interpretar informações, fatos e opiniões para argumentar",
+            "Demonstrar conhecimento dos mecanismos linguísticos para argumentar",
+            "Elaborar uma proposta de intervenção para o problema abordado, respeitando os direitos humanos"
+        ],
+        "dicas": [
+            "Leia atentamente a proposta da redação e assente sua argumentação nela",
+            "Estruture seu texto em introdução, desenvolvimento e conclusão",
+            "Utilize conectivos e elementos coesivos para articular suas ideias",
+            "Revise a ortografia, pontuação e concordância antes de entregar a redação"
+        ]
+    }
+}

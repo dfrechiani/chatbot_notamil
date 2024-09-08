@@ -1,0 +1,26 @@
+{
+    "competencia": "I - Dominar a norma culta da língua portuguesa e os códigos das diferentes linguagens e seus recursos expressivos, estilísticos e composicionais",
+    "titulo": "Redação do ENEM",
+    "conteudo": {
+        "Definicao": "Prova dissertativa-argumentativa sobre tema de ordem social, científica, cultural ou política. Deve-se defender um ponto de vista com argumentos consistentes, estruturados com coerência e coesão.",
+        "Criterios de avaliacao": [
+            "Domínio da modalidade escrita formal da língua portuguesa",
+            "Defesa de um ponto de vista",
+            "Estruturação de argumentos consistentes",
+            "Coerência e coesão textual",
+            "Respeito aos direitos humanos na proposta de intervenção"
+        ],
+        "Estrutura": [
+            "Tema",
+            "Ponto de vista",
+            "Argumentos",
+            "Proposta de intervenção"
+        ],
+        "Dicas": [
+            "Use conectivos adequados",
+            "Organize bem os parágrafos",
+            "Evite contradições e inconsistências",
+            "Proponha soluções viáveis e respeitosas"
+        ]
+    }
+}

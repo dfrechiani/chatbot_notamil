@@ -1,0 +1,5 @@
+{
+    "competencia": "IV - Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação",
+    "titulo": "Estruturação lógica e formal do texto",
+    "conteudo": "Este conteúdo explica os aspectos relacionados à estruturação lógica e formal entre partes do texto, tais como coerência, coesão, elementos de articulação, propriedade vocabular."
+}

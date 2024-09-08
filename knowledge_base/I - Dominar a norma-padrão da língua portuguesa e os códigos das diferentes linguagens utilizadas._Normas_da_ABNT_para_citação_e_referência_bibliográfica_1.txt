@@ -1,0 +1,24 @@
+{
+    "competencia": "I - Dominar a norma-padrão da língua portuguesa e os códigos das diferentes linguagens utilizadas.",
+    "titulo": "Normas da ABNT para citação e referência bibliográfica",
+    "conteudo": {
+        "definicao": {
+            "citacao": "Menção, no texto, de uma informação extraída de outra fonte.",
+            "referencia": "Conjunto padronizado de elementos descritivos retirados de um documento que permite sua identificação individual."
+        },
+        "criteriosAvaliacao": [
+            "Uso correto de citações no texto.",
+            "Completude e exatidão das referências bibliográficas.",
+            "Emprego adequado do sistema autor-data ou numérico de chamada das citações."
+        ],
+        "exemplos": {
+            "sistemaAutorData": "De acordo com Silva (2023), a evolução das tecnologias demanda constantes atualizações das normas técnicas.",
+            "sistemaNumerico": "Constantes avanços tecnológicos requerem revisões frequentes das normas técnicas [1]."
+        },
+        "dicas": [
+            "Evite o plágio e cite adequadamente todas as fontes utilizadas.",
+            "Confira se todas as citações possuem a correspondente referência bibliográfica e vice-versa.",
+            "Utilize gerenciadores bibliográficos (Mendeley, EndNote) para organizar suas referências."
+        ]
+    }
+}

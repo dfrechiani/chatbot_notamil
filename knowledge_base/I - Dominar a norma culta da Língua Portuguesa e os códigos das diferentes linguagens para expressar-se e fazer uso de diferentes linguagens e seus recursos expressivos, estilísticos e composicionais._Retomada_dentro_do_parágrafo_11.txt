@@ -1,0 +1,21 @@
+{
+    "competencia": "I - Dominar a norma culta da Língua Portuguesa e os códigos das diferentes linguagens para expressar-se e fazer uso de diferentes linguagens e seus recursos expressivos, estilísticos e composicionais.",
+    "titulo": "Retomada dentro do parágrafo",
+    "conteudo": {
+        "definicao": "A retomada consiste em retomar um termo ou ideia já mencionados anteriormente dentro do mesmo parágrafo, para dar continuidade e coerência ao texto.",
+        "criterios": [
+            "Evitar repetição desnecessária de termos.",
+            "Usar pronomes, sinônimos ou expressões equivalentes para retomar uma ideia.",
+            "Garantir que o termo de retomada se refira claramente ao elemento retomado."
+        ],
+        "exemplos": [
+            "Em 1930, o então presidente Getúlio Vargas estendeu os benefícios a todas as categorias trabalhistas e afirmou publicamente que o direito à renda deve ser garantido inclusive na velhice. Entretanto, os problemas previdenciários do Brasil contemporâneo fragilizam o projeto de Vargas, colocam em risco o direito à aposentadoria aos idosos e exigem esforços para reestruturar o sistema previdenciário.",
+            "De outra parte, o sociólogo Zygmunt Bauman defende, na obra “Modernidade Líquida”, que o individualismo é uma das principais características — e o maior conflito — da pós-modernidade, e, consequentemente, parcela da população tende a ser incapaz de tolerar diferenças. Esse problema assume contornos específicos no Brasil, onde, apesar do multiculturalismo, há quem exija do outro a mesma postura religiosa e seja intolerante àqueles que dela divergem"
+        ],
+        "dicas": [
+            "Preste atenção aos referentes ao longo do parágrafo.",
+            "Use pronomes e advérbios para retomar termos e ideias.",
+            "Evite ambiguidades na retomada."
+        ]
+    }
+}

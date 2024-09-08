@@ -1,0 +1,10 @@
+{
+    "competencia": "I - Dominar a norma-padrão da língua portuguesa e os códigos das diferentes linguagens utilizadas.",
+    "titulo": "Uso de raciocínio causal em redações do ENEM",
+    "conteudo": {
+        "definicao": "O raciocínio causal consiste em identificar as causas ou motivos que levam a um determinado problema ou situação. É um tipo de raciocínio aplicável a todos os temas de redação do ENEM.",
+        "criterios_avaliacao": "O uso adequado do raciocínio causal deve apontar as origens e fatores determinantes do problema, indo além de uma mera constatação ou descrição narrativa.",
+        "exemplos": "Exemplos de aplicação do raciocínio causal: relacionar casos de violência a fatores sociais, econômicos e culturais; vincular degradação ambiental a modelos insustentáveis de desenvolvimento.",
+        "dicas": "Evite que o texto fique meramente descritivo e narrativo. Aponte e analise efetivamente as causas e consequências dos problemas abordados."
+    }
+}

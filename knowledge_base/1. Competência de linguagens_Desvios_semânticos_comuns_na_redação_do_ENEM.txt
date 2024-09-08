@@ -1,0 +1,20 @@
+{
+    "competencia": "1. Competência de linguagens",
+    "titulo": "Desvios semânticos comuns na redação do ENEM",
+    "conteudo": {
+        "definicao": "Lista de palavras e expressões que frequentemente são usadas de forma incorreta nas redações do ENEM, com explicações e sugestões de uso adequado.",
+        "palavras": [
+            {
+                "termo": "Ratificar",
+                "desvio": "Usar 'ratificar' em contextos onde a fonte citada não tem autoridade para confirmar ou validar oficialmente um fato.",
+                "correcao": "Substituir por 'corroborar' quando a fonte serve apenas para reforçar o argumento, não para validá-lo oficialmente."
+            },
+            {
+                "termo": "Sob esse viés",
+                "desvio": "A expressão pode implicar uma distorção ou tendência, o que pode não ser o objetivo pretendido.",
+                "correcao": "Substituir por 'Nessa perspectiva' ou outra expressão que indique o ponto de vista sem distorção."
+            }
+        ],
+        "dicas": "Atentar para o significado preciso e as conotações de termos e expressões ao redigir a prova."
+    }
+}

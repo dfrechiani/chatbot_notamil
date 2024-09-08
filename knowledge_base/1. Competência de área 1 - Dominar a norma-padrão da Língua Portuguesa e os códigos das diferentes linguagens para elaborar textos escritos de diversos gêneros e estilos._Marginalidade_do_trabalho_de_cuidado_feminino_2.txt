@@ -1,0 +1,10 @@
+{
+    "competencia": "1. Competência de área 1 - Dominar a norma-padrão da Língua Portuguesa e os códigos das diferentes linguagens para elaborar textos escritos de diversos gêneros e estilos.",
+    "titulo": "Marginalidade do trabalho de cuidado feminino",
+    "conteudo": {
+        "definicao": "O texto aborda a marginalidade e falta de direitos no trabalho de cuidado realizado majoritariamente por mulheres.",
+        "avaliacao": "Avalia a atuação deficiente do Poder Executivo em garantir dignidade profissional a essas trabalhadoras.",
+        "exemplos": "Cita cuidadoras que se encontram em situações indignas de trabalho.",
+        "solucoes": "Propõe medidas do Ministério da Cidadania para propagar a gravidade do problema e conscientizar a população para mitigá-lo."
+    }
+}

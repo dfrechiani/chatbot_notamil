@@ -1,0 +1,19 @@
+{
+    "competencia": "II - Compreender e usar a linguagem escrita e falada em diferentes contextos, produzindo textos orais e escritos",
+    "titulo": "Uso dos dois-pontos para destacar uma expressão",
+    "conteudo": {
+        "definicao": "Os dois-pontos servem para valorizar uma palavra ou expressão que merece destaque na frase.",
+        "criterios": [
+            "Escolher uma expressão que mereça ser valorizada na frase",
+            "Fazer o deslocamento da expressão para o final da frase, usando dois-pontos (:)",
+            "Essa expressão mais importante se chama tópico sentencial"
+        ],
+        "exemplos": [
+            "A sociedade brasileira precisa combater um dos maiores problemas da internet: o controle de dados."
+        ],
+        "dicas": [
+            "O tópico sentencial desempenha um papel importante na organização e estruturação de um texto",
+            "Permite que os leitores identifiquem rapidamente o tema central e acompanhem a progressão lógica do conteúdo apresentado"
+        ]
+    }
+}

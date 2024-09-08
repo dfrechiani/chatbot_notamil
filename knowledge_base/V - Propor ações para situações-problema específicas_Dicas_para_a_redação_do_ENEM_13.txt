@@ -1,0 +1,10 @@
+{
+    "competencia": "V - Propor ações para situações-problema específicas",
+    "titulo": "Dicas para a redação do ENEM",
+    "conteudo": {
+        "exclusaoDeDireitos": "Mostre que alguém está sendo excluído de viver algum direito por conta do problema que está acontecendo. Exemplo: A população que vive em periferias e em comunidades se mostra excluída do direito à segurança e ao bem-estar.",
+        "politicasPublicasInsuficientes": "Mostre que alguém está sendo excluído de viver algum direito por conta do problema que está acontecendo. Exemplo: Embora haja políticas públicas de combate à criminalidade, elas ainda são insuficientes para reprimir a hostilidade urbana.",
+        "problemasSociaisAntigos": "Mostre que deram um nome novo para um problema antigo. Nem sempre dá para encontrar esse raciocínio, mas tente. Exemplo: O conceito de narcomilícia representa, na verdade, um nome novo para um problema antigo: o poder paralelo.",
+        "falsaSensibilizacao": "Mostre que a sociedade brasileira se sensibiliza com problemas sociais de forma superficial."
+    }
+}

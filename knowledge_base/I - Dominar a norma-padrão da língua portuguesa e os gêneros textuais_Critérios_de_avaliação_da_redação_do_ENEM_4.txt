@@ -1,0 +1,26 @@
+{
+    "competencia": "I - Dominar a norma-padrão da língua portuguesa e os gêneros textuais",
+    "titulo": "Critérios de avaliação da redação do ENEM",
+    "conteudo": {
+        "introducao": "A redação do ENEM é avaliada por critérios como: adequação ao tema e ao gênero textual; coesão e coerência; repertório cultural; domínio da norma-padrão da língua portuguesa.",
+        "criterios": [
+            {
+                "nome": "Adequação ao tema",
+                "descricao": "Avalia se o texto elaborado pelo participante atende ao tema proposto."
+            },
+            {
+                "nome": "Adequação ao gênero textual",
+                "descricao": "Avalia se a estrutura textual elaborada pelo participante corresponde ao gênero textual solicitado."
+            },
+            {
+                "nome": "Coesão e coerência",
+                "descricao": "Avalia se o texto elaborado pelo participante apresenta conexão entre os elementos formadores do texto (coesão) e relação lógica entre as ideias e posicionamentos (coerência)."
+            }
+        ],
+        "dicas": [
+            "Leia atentamente a proposta da redação e o tema antes de começar a escrever.",
+            "Organize suas ideias e posicionamento em relação ao tema antes de iniciar a redação.",
+            "Utilize conectivos adequados para ligar frases e parágrafos."
+        ]
+    }
+}

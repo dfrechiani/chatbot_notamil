@@ -1,0 +1,18 @@
+{
+    "competencia": "III - Competência de Elaboração da Proposta",
+    "titulo": "Inteligibilidade e coerência textual",
+    "conteudo": {
+        "definicao": "A inteligibilidade e coerência textual referem-se à capacidade de o texto fazer sentido, apresentando ideias relacionadas de forma lógica e progressiva.",
+        "criterios": [
+            "Seleção adequada dos argumentos",
+            "Relação de sentido entre as partes do texto",
+            "Progressão e encadeamento lógico das ideias",
+            "Desenvolvimento e explicitação da relevância dos argumentos"
+        ],
+        "dicas": [
+            "Planeje previamente os argumentos e o encaminhamento lógico das ideias",
+            "Utilize articuladores textuais para conectar frases e parágrafos",
+            "Desenvolva cada ideia apresentada, destacando sua importância para a tese defendida"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "competencia": "I - Dominar a norma culta da Língua Portuguesa e os códigos das diferentes linguagens utilizadas",
+    "titulo": "Análise da redação nota 1000 no ENEM",
+    "conteudo": {
+        "Definicao": "Análise feita pelo Inep de uma redação que recebeu nota máxima (1000) no Exame Nacional do Ensino Médio (ENEM).",
+        "Criterios de avaliacao": {
+            "Estrutura sintática": "Apresenta excelente domínio da estrutura sintática da norma culta da língua portuguesa, com apenas um pequeno desvio.",
+            "Estrutura textual": "Possui introdução, desenvolvimento e conclusão bem definidos. Aborda o tema de forma completa e coerente.",
+            "Competencia I": "Demonstra excelente domínio da modalidade escrita formal da língua portuguesa."
+        },
+        "Exemplos": {
+            "Desvio": "Não usa o sinal grave indicativo de crase em “alçará o país à verdadeira posição de Estado Democrático de Direito”."
+        },
+        "Dicas": {
+            "Gramatica": "Dominar o uso de crase é fundamental para obter nota máxima.",
+            "Estrutura": "Apresentar texto estruturado, coerente e que aborde completamente o tema proposto é essencial."
+        }
+    }
+}

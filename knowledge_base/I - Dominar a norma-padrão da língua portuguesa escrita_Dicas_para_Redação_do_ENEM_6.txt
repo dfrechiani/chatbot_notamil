@@ -1,0 +1,26 @@
+{
+    "competencia": "I - Dominar a norma-padrão da língua portuguesa escrita",
+    "titulo": "Dicas para Redação do ENEM",
+    "conteudo": {
+        "introducao": "Este conteúdo apresenta dicas para a redação do ENEM, focando em posturas e estratégias para construir um texto convincente.",
+        "denunciar": {
+            "tipos": [
+                {
+                    "titulo": "Conivência por Omissão",
+                    "definicao": "Quando os envolvidos são conscientes do problema, mas não agem para resolvê-lo."
+                },
+                {
+                    "titulo": "Conveniência",
+                    "definicao": "Quando se beneficiam da perpetuação do problema."
+                }
+            ]
+        },
+        "perceber": {
+            "definicao": "Apresentar os efeitos negativos do problema em níveis crescentes de gravidade.",
+            "exemplo": "A manutenção do problema levará a consequências pequenas, médias e grandes para os indivíduos.",
+            "dicas": [
+                "Ordene as consequências do problema da menos grave para a mais grave."
+            ]
+        }
+    }
+}

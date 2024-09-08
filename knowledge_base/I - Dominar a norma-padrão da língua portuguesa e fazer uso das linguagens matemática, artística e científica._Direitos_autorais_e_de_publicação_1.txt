@@ -1,0 +1,13 @@
+{
+    "competencia": "I - Dominar a norma-padrão da língua portuguesa e fazer uso das linguagens matemática, artística e científica.",
+    "titulo": "Direitos autorais e de publicação",
+    "conteudo": {
+        "definicao": "O texto apresenta informações sobre direitos autorais e de publicação da obra 'Novo Dicionário Aurélio da Língua Portuguesa', destacando o detentor dos direitos e as restrições de uso.",
+        "informacoesPrincipais": [
+            "Detentor dos direitos autorais: Lexikon Editora Digital Ltda.",
+            "Restrições: proibição de apropriação, estocagem em bancos de dados, fotocópia, gravação ou qualquer forma de reprodução sem autorização do detentor dos direitos.",
+            "Informações de contato da editora."
+        ],
+        "interpretacao": "Essas informações são importantes para compreender questões relacionadas a plágio e reprodução inadequada de conteúdo em trabalhos acadêmicos e na vida profissional."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "competencia": "I - Dominar a norma culta da Língua Portuguesa e os códigos das diferentes linguagens para expressar-se e fazer uso de diferentes linguagens e seus recursos expressivos, estilísticos e composicionais.",
+    "titulo": "A redação no ENEM",
+    "conteudo": {
+        "definicao": "A prova de redação foi introduzida no ENEM na década de 1990 para avaliar a capacidade dos candidatos de se expressar por escrito de forma clara, coerente e argumentativa.",
+        "objetivos": [
+            "Avaliar o domínio da norma culta da Língua Portuguesa",
+            "Avaliar a capacidade de expressar ideias e argumentar por escrito",
+            "Avaliar a coerência e coesão textual"
+        ],
+        "criterios": [
+            "Uso adequado da Língua Portuguesa",
+            "Estruturação lógica das ideias em um texto dissertativo-argumentativo",
+            "Defesa de um ponto de vista com argumentos consistentes"
+        ],
+        "dicas": [
+            "Pratique redações com temas atuais e relevantes",
+            "Leia e analise redações nota máxima para entender o que é avaliado",
+            "Cuidado com a coerência, coesão, pontuação e concordância"
+        ]
+    }
+}
